@@ -16,6 +16,7 @@
 ![Vapor](https://img.shields.io/badge/-Vapor-F6C915?style=flat-square&logo=vapor&logoColor=black)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Core Data](https://img.shields.io/badge/-Core_Data-1E90FF?style=flat-square&logo=apple&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ### **Tools & Practices**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
